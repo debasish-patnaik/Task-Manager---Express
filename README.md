@@ -1,10 +1,10 @@
 ## Task Manager
 
-It is a task management application which behaves like a simple todo application where we have CRUD operations available for user generated tasks.
+It is a task management application with CRUD operations available for tasks added by a user.
 In this application, the tasks are stored in MongoDB Atlas Database.
 
 ## Project Setup
 
-In order to run the project, setup .env and set MONGO_URI variable equal to DB connection string.
+In order to run the project, setup .env and set the MONGO_URI variable equal to the DB connection string.
 
-In order to avoid port collisions, in the source code port value is 6060
+In order to avoid port collisions, in the source code, the port value is 6060
