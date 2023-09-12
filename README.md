@@ -1,6 +1,7 @@
 ## Task Manager
 
 It is a task management application with CRUD operations available for tasks added by a user.
+
 In this application, the tasks are stored in MongoDB Atlas Database.
 
 ## Project Setup
